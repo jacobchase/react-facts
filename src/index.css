@@ -20,6 +20,10 @@ nav > img {
 body{
     background-color: #282D35;
     font-family:Inter;
+    background-image: url(assets/grey-react-logo.png);
+    background-repeat: no-repeat;
+    background-position-x:right;
+    background-position-y:190%;
 }
 
 main > h1 {
