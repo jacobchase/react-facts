@@ -1,0 +1,43 @@
+nav{
+    display:flex;
+    align-items: center;
+    height:100%
+}
+span{
+    margin-left:20px;
+    color: #61DAFB;
+    font-size:1.4rem;
+    font-weight:700;
+}
+header{
+    height:90px;
+    background-color:#21222A;
+    padding: 30px 25px;
+}
+nav > img {
+    width:50px;
+}
+body{
+    background-color: #282D35;
+    font-family:Inter;
+}
+
+main > h1 {
+    color:white;
+    font-size:1.8rem;
+    margin-left:32px;
+    margin-bottom: 72px;
+    margin-top:30px;
+}
+ul{
+    color:white;
+}
+li{
+    margin-left:80px;
+    margin-top: 20px;
+    font-size:12pt;
+}
+li::marker{
+    color:#61DAFB;
+    font-size:1.5rem;
+}
